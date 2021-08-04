@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shabi Kaushal</h1>
+<h1 align="center">Namaste 🙏, I'm Aryabhatta (mrbuddhu)</h1>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=22&center=true&width=600&lines=Build+%E2%80%A2+Break+%E2%80%A2+Design+%E2%80%A2+Solve+%E2%80%A2+Train+%E2%80%A2+Serve)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msbuddhu&label=Profile%20views&color=0e75b6&style=flat" alt="msbuddhu" /> </p>
