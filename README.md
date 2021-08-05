@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/msbuddhu" target="blank"><img src="https://img.shields.io/twitter/follow/msbuddhu?logo=twitter&style=for-the-badge" alt="msbuddhu" /></a> </p>
 
-- 📫 How to reach me **.am.msbuddhu@gmail.com**
+- 📫 How to reach me **i.am.msbuddhu@gmail.com**
 
 - ⚡ Fun fact **There is a non-geeky side of mine too :)**
 
