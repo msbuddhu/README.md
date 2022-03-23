@@ -12,15 +12,15 @@
 
 - 🌱 I’m currently learning **Cross Platform Penetration Testing**
 
-- 👨‍💻 All of my projects are available at [msbuddhu.me](msbuddhu.me)
+- 👨‍💻 All of my projects are available at [msbuddhu.me](http://msbuddhu.me/#/)
 
-- 📝 I regularly write articles on [blog.msbuddhu.me](blog.msbuddhu.me)
+- 📝 I regularly write articles on [blog.msbuddhu.me](http://msbuddhu.me/#/)
 
 - 💬 Ask me about **Core Computer Science, Programming Languages, Programming Paradigms, Cross Platform Development, Graphic Design/Animations & Open Source**
 
 - 📫 How to reach me **i.am.msbuddhu@gmail.com**
 
-- 📄 Know about my experiences [resume.msbuddhu.me](resume.msbuddhu.me)
+- 📄 Know about my experiences [resume.msbuddhu.me](http://msbuddhu.me/#/)
 
 - ⚡ Fun fact **I have a non-geeky side too :)**
 
